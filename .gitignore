@@ -20,7 +20,9 @@
 *.mod
 *.smod
 
-*.output/
+# cpp vs code
+*/output/
+*.vscode/
 
 # Compiled Static libraries
 *.lai
