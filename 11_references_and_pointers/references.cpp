@@ -6,6 +6,10 @@ int main() {
   string food = "Pizza";
   string &meal = food;
 
+  //Now, we can use either the variable name food or the reference name meal to refer to the food variable:
+
+
+
   cout << food << "\n";
   cout << meal << "\n";
 
